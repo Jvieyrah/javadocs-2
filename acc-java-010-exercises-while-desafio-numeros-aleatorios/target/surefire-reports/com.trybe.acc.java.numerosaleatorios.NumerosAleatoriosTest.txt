@@ -1,0 +1,23 @@
+-------------------------------------------------------------------------------
+Test set: com.trybe.acc.java.numerosaleatorios.NumerosAleatoriosTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.037 s <<< FAILURE! - in null
+com.trybe.acc.java.numerosaleatorios.NumerosAleatoriosTest.mainTest  Time elapsed: 0.026 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: 
+expected: <1
+3
+2
+5
+2
+5
+2
+2
+1
+1
+3
+1
+5
+4
+> but was: <>
+	at com.trybe.acc.java.numerosaleatorios.NumerosAleatoriosTest.mainTest(NumerosAleatoriosTest.java:45)
+
